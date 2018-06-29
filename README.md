@@ -4,8 +4,8 @@
 # http://deepcognition.ai/resources/competitions/soda-bottle-label-detection/
 
 # Modules needed
-import cv2
-import numpy as np
+*import cv2
+*import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
 import tflearn
